@@ -1,0 +1,96 @@
+
+@import url("https://fonts.google.com/specimen/Poppins")
+
+body:{
+  font-size:18px;
+  padding-left:20px;;
+}
+h1,h2{
+  font-family:"Poppins"
+}
+
+.head{
+  background-color:hsl(193, 100%, 96%);
+  padding-left:50px;
+  height:500px;
+}
+
+.try-it-free{
+
+  border-radius:30px;
+  right:50px;
+  width:120px;
+  height:30px;
+  background-color:white;
+border:2px solid white;}
+
+
+.submit:hover {
+            color: #1c0202;
+        }
+
+.get-started{
+  border-radius:30px;
+  height: 40px;
+  width:200px;
+  background-color:hsl(322, 100%, 66%);
+  border:2px solid hsl(322, 100%, 66%);
+  color:white;
+}
+
+.head-content{
+  align: content left;
+  width:500px;
+height: 150px;
+  padding-top:100px;
+}
+.first-image{
+  float:right;}
+
+.middle{
+  padding-left:50px;
+  padding-right:50px;
+}
+
+.grow-together{
+  border:2px solid #ebe6e6;
+  border-radius:20px;
+  height:400px;
+  padding-left:50px;
+}
+.grow-content{
+  align-content:left;
+  width: 500px;
+  height: 200px;
+  padding-top:150px;
+padding-bottom:50px;}
+
+.flow-convo{
+  border:2px solid #ebe6e6;
+  border-radius:20px;
+  height:400px;
+  padding-left:50px;
+  
+}
+
+.convo-content{
+  align-content:right;
+  width: 500px;
+  height: 200px;
+  padding-top:150px;
+padding-bottom:50px;
+padding-left:700px;}
+
+.your-users{
+   border:2px solid #ebe6e6;
+  border-radius:20px;
+  height:400px;
+  padding-left:50px;
+}
+
+.user-content{
+  align-content:left;
+  width: 500px;
+  height: 200px;
+  padding-bottom:50px;
+  padding-top:150px;
